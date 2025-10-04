@@ -1,4 +1,4 @@
 # saiteja-demo
 A first demo Git Repository
 <br>
-by Saiteja Puttoju
+by Saiteja Puttoju (Agentic AI - Developer)
